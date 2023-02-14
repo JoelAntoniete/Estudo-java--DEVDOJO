@@ -1,0 +1,20 @@
+package Aula48ReverMaterial.Teste;
+
+import Aula48ReverMaterial.Dominio.Pessoa;
+
+public class PessoaTeste01 {
+    public static void main(String[] args) {
+        //Modificador de acesso private, get e set
+
+        Pessoa pessoa = new Pessoa();
+
+        //pessoa.nome = "João";
+        //pessoa.idade = 25;
+
+        pessoa.setNome("João");
+        pessoa.setIdade(25);
+
+        pessoa.imprime();
+
+    }
+}
