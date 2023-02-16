@@ -1,7 +1,7 @@
-package Aula48ReverMaterial.Teste;
+package Aula48ReverMaterial56.Teste;
 
-import Aula48ReverMaterial.Dominio.Estudante;
-import Aula48ReverMaterial.Dominio.ImpressoraEstudante;
+import Aula48ReverMaterial56.Dominio.Estudante;
+import Aula48ReverMaterial56.Dominio.ImpressoraEstudante;
 
 public class EstudanteTeste01 {
     public static void main(String[] args) {

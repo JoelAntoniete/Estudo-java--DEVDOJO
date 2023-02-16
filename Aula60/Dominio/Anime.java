@@ -1,4 +1,4 @@
-package Aula60Ate.Dominio;
+package Aula60.Dominio;
 
 public class Anime {
     private String nome;

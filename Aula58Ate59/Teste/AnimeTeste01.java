@@ -1,7 +1,7 @@
-package Aula58Ate.Teste;
+package Aula58Ate59.Teste;
 
 
-import Aula58Ate.Dominio.Anime;
+import Aula58Ate59.Dominio.Anime;
 
 public class AnimeTeste01 {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
-package Aula57Ate.Teste;
+package Aula57.Teste;
 
-import Aula57Ate.Dominio.Anime;
+import Aula57.Dominio.Anime;
 
 public class AnimeTeste01 {
     public static void main(String[] args) {

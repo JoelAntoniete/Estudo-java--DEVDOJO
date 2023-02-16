@@ -1,6 +1,6 @@
-package Aula48ReverMaterial.Teste;
+package Aula48ReverMaterial56.Teste;
 
-import Aula48ReverMaterial.Dominio.Calculadora;
+import Aula48ReverMaterial56.Dominio.Calculadora;
 
 public class CalculadoraTeste05 {
     public static void main(String[] args) {

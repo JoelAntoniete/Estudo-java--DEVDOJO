@@ -1,6 +1,6 @@
-package Aula48ReverMaterial.Teste;
+package Aula48ReverMaterial56.Teste;
 
-import Aula48ReverMaterial.Dominio.Funcionario;
+import Aula48ReverMaterial56.Dominio.Funcionario;
 
 public class FuncionarioTeste01 {
     public static void main(String[] args) {

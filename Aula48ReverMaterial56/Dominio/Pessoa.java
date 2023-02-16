@@ -1,4 +1,4 @@
-package Aula48ReverMaterial.Dominio;
+package Aula48ReverMaterial56.Dominio;
 
 public class Pessoa {
     private String nome;

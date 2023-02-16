@@ -1,4 +1,4 @@
-package Aula48ReverMaterial.Dominio;
+package Aula48ReverMaterial56.Dominio;
 
 public class ImpressoraEstudante {
     //Passagem de parametro vida referencia
