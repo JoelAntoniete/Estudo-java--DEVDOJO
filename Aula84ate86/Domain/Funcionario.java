@@ -1,4 +1,4 @@
-package Aula84ate.Domain;
+package Aula84ate86.Domain;
 
 public abstract class Funcionario extends Pessoa{
     protected String nome;

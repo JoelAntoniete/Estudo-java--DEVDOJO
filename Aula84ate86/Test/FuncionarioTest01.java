@@ -1,7 +1,6 @@
-package Aula84ate.Test;
+package Aula84ate86.Test;
 
-import Aula84ate.Domain.Funcionario;
-import Aula84ate.Domain.Gerente;
+import Aula84ate86.Domain.Gerente;
 
 public class FuncionarioTest01 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Aula84ate.Domain;
+package Aula84ate86.Domain;
 
 public class Gerente extends Funcionario{
     public Gerente(String nome, double salario) {

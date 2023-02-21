@@ -1,4 +1,4 @@
-package Aula84ate.Domain;
+package Aula84ate86.Domain;
 
 public class Desenvolvedor extends Funcionario{
     public Desenvolvedor(String nome, double salario) {
