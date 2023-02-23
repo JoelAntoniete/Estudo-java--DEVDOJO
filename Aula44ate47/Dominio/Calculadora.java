@@ -1,4 +1,4 @@
-package Aula44ate.Dominio;
+package Aula44ate47.Dominio;
 
 public class Calculadora {
     public void somaDoisNumeros(){
