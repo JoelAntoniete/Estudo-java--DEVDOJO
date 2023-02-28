@@ -7,7 +7,8 @@ public class ExceptionTest02 {
     public static void main(String[] args) {
 
         try{
-            criarNovoArquivo();
+            criarNovoArquivo
+                    ();
         }catch(IOException e){
             e.printStackTrace();
         }
