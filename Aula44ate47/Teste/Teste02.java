@@ -1,6 +1,6 @@
-package Aula44ate47.Teste;
+package Aula44ate.Teste;
 
-import Aula44ate47.Dominio.Calculadora;
+import Aula44ate.Dominio.Calculadora;
 
 public class Teste02 {
     //introdução a metodos com parametros
