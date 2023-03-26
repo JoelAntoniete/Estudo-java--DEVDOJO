@@ -26,7 +26,7 @@ class MangaPrecoComparator implements Comparator<Manga>{
 
 public class NavigableSetTest01 {
     public static void main(String[] args) {
-        //como estamos tentando forcar a Casse Smartphone, temos que colocar o comparator como argumento
+        //como estamos tentando forcar a Classe Smartphone, temos que colocar o comparator como argumento
         NavigableSet<Smartphone>set = new TreeSet<>(new SmartphoneMarcaComparator());
 
         //como a treeSet esta ligado a parte o treeSort, é importante que a classe implemente comparable
