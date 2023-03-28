@@ -1,10 +1,8 @@
-package Aula161ate.Test;
+package Aula161ate183.Test;
 
-import Aula161ate.Dominio.Manga;
+import Aula161ate183.Dominio.Manga;
 
-import java.util.ArrayList;
 import java.util.HashSet;
-import java.util.List;
 import java.util.Set;
 
 public class SetTest01 {

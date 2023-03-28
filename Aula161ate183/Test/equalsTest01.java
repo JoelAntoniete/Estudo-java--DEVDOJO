@@ -1,6 +1,6 @@
-package Aula161ate.Test;
+package Aula161ate183.Test;
 
-import Aula161ate.Dominio.Smartphone;
+import Aula161ate183.Dominio.Smartphone;
 
 public class equalsTest01 {
     public static void main(String[] args) {

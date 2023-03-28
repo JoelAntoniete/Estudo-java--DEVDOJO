@@ -1,4 +1,4 @@
-package Aula161ate.Dominio;
+package Aula161ate183.Dominio;
 
 public class Smartphone {
     private String serialNumber;

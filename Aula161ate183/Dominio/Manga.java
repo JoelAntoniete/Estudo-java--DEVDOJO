@@ -1,4 +1,4 @@
-package Aula161ate.Dominio;
+package Aula161ate183.Dominio;
 
 import java.util.Objects;
 
@@ -9,7 +9,7 @@ public class Manga implements Comparable<Manga>{
     private int quantidade;
 
     public Manga(Long id, String nome, double preco) {
-        Objects.requireNonNull(id, "o id nao pode ser null"); //uma maneira de nao pomos null como atributo
+        Objects.requireNonNull(id, "o id nao pode ser null"); //uma maneira de nao pormos null como atributo
         Objects.requireNonNull(nome);//podemos colocar apenas o atributo, sem usar a menssagem
         this.id = id;
         this.nome = nome;
