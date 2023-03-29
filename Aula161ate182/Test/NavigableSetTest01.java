@@ -1,7 +1,7 @@
-package Aula161ate183.Test;
+package Aula161ate182.Test;
 
-import Aula161ate183.Dominio.Manga;
-import Aula161ate183.Dominio.Smartphone;
+import Aula161ate182.Dominio.Manga;
+import Aula161ate182.Dominio.Smartphone;
 
 import java.util.*;
 
