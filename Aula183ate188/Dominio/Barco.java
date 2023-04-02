@@ -1,4 +1,4 @@
-package Aula183ate.Dominio;
+package Aula183ate188.Dominio;
 
 public class Barco {
     private String nome;
@@ -12,5 +12,9 @@ public class Barco {
         return "Barco{" +
                 "nome='" + nome + '\'' +
                 '}';
+    }
+
+    public String getNome() {
+        return nome;
     }
 }

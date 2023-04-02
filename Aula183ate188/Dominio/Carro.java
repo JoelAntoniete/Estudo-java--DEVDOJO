@@ -1,4 +1,4 @@
-package Aula183ate.Dominio;
+package Aula183ate188.Dominio;
 
 public class Carro {
     private String nome;

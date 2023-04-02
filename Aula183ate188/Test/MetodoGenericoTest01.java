@@ -1,8 +1,7 @@
-package Aula183ate.Test;
+package Aula183ate188.Test;
 
-import Aula183ate.Dominio.Barco;
+import Aula183ate188.Dominio.Barco;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public class MetodoGenericoTest01 {

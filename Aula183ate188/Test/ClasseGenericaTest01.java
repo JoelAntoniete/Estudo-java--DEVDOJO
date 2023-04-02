@@ -1,7 +1,7 @@
-package Aula183ate.Test;
+package Aula183ate188.Test;
 
-import Aula183ate.Dominio.Carro;
-import Aula183ate.Service.CarroRentavelService;
+import Aula183ate188.Dominio.Carro;
+import Aula183ate188.Service.CarroRentavelService;
 
 public class ClasseGenericaTest01 {
     public static void main(String[] args) {

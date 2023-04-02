@@ -1,6 +1,6 @@
-package Aula183ate.Service;
+package Aula183ate188.Service;
 
-import Aula183ate.Dominio.Barco;
+import Aula183ate188.Dominio.Barco;
 
 import java.util.ArrayList;
 import java.util.List;
